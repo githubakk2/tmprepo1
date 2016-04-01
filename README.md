@@ -2,4 +2,7 @@
 # change1
 # change2
 *cursive*
-```some code here```
+```javascript
+const a = (b) => { return b+1; }
+```
+
